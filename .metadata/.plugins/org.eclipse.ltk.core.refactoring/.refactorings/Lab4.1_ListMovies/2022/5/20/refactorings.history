@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;numMovies&apos; in &apos;ListMoviesApp.getInput(...)&apos; to &apos;num&apos;&#x0A;- Original project: &apos;Lab4.1_ListMovies&apos;&#x0A;- Original element: &apos;ListMoviesApp.getInput(int).numMovies&apos;&#x0A;- Renamed element: &apos;numMovies&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;numMovies&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{ListMoviesApp.java[ListMoviesApp~getInput~I@numMovies!1091!1103!1095!1103!I!0!true" name="num" references="true" stamp="1652130187489" version="1.0"/>
+</session>
